@@ -1,7 +1,7 @@
 # Problems 1-11
 > All solutions to these problems were written in the Visual Studio development environment.
 
-Default functions for dealing with lists, such as `Seq()`,`Fold()`, and `Foldback()` were avoided while developing these solutions.
+Default functions for dealing with lists, such as `Seq()`,`Fold()`, and `Foldback()` were **avoided** while developing these solutions.
 The code can be found in the [Program.fs](../Program.fs) file.
 
 ## Working with lists
