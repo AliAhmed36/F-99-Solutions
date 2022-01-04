@@ -3,3 +3,5 @@ This repository contains solutions to the F# Problems posted on [F-99: Ninety-Ni
 
 Credits to [@paks](https://github.com/paks) for compiling these.  
 
+> All Solutions are written in the Visual Studio development environment.
+
